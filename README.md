@@ -1,9 +1,7 @@
 **CODTECH-DATA-SCIENCE**
 
 *COMPANY*   : CODTECH IT SOLUTIONS                                                                                                                                               
-
 *NAME*      : PRAVEEN KUMAR.B                                                                                                                                                    
-
 *INTERN TD* : CTIS4232                                                                                                                                                                     
 *DOMAIN*    : DATA SCIENCE                                                                                                                                                            
 *DURATION*  : 4 WEEKS                                                                                                                                                                                                                                                                                                                                             
